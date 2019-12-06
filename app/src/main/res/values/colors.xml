@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="text_1">#4d4dff</color>
+    <color name="white"> #FFFFFF</color>
+    <color name="blue">#1296db</color>
+    <color name="black">#000000</color>
+    <color name="red">#d81e06</color>
+    <color name="gray">#80f2f2f2</color>
+    <color name="KONG"></color>
+</resources>
